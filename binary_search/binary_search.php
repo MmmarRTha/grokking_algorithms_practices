@@ -15,18 +15,16 @@ function binarySearch(array $arr, int $target): int {
             $low = $mid + 1;
         }
     }
-
-    return -1; // Target not found
+    return -1; // Element not found
 }
 
-// Example usage
 $arr = [1, 3, 5, 7, 9, 11];
 $target = 7;
 $result = binarySearch($arr, $target);
 
 if ($result != -1) {
     echo "Element found at index: " . $result;
-} else {
-    echo "Element not found in the array.";
+    return;
 }
+echo "Element not found in the array.";
 ?>
