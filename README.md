@@ -7,9 +7,3 @@ This repository contains practice implementations and exercises from the book "G
 - PHP (38.7%)
 - Elixir (31.2%)
 - Python (30.1%)
-
-## Directory Structure
-
-- `php/`: Contains PHP implementations of algorithms.
-- `elixir/`: Contains Elixir implementations of algorithms.
-- `python/`: Contains Python implementations of algorithms.
