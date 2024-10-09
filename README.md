@@ -6,7 +6,7 @@ This repository contains practice implementations and exercises from the book "G
 ![Screenshot from 2024-10-08 23-44-32](https://github.com/user-attachments/assets/fa4a45b3-f09d-4e6d-a0f2-67312144cdec)
 
 >
-> .[!NOTE].
+> [!NOTE]
 > The ebook is the Second Edition
 > 
 
