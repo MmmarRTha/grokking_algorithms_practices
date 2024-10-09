@@ -12,6 +12,6 @@ This repository contains practice implementations and exercises from the book "G
 
 ## Languages Used
 
-- PHP (38.7%)
-- Elixir (31.2%)
-- Python (30.1%)
+- Elixir 
+- PHP
+- Python 
